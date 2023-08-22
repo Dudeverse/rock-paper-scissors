@@ -1,4 +1,4 @@
-console.log("hello world")
+console.log("hello world😀")
 
 let x = "ROCK"
 let y = "PAPER"
@@ -10,5 +10,6 @@ z.textContent = "SCISSORS"
 let a = document.getElementById("second")
 
 a.textContent = y
+
 
 // console.log(z)
